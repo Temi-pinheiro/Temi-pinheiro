@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Temitope Pinheiro
 - 👀 I’m interested in ... creating magic
-- 🌱 I’m currently learning ... Java, Javascript, React and Python
 - 💞️ I’m looking to collaborate on ... Frontend and Fullstack projects
 - 📫 How to reach me ... Twitter: @Dev1nh1o
 
